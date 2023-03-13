@@ -1,0 +1,14 @@
+C:\INFO\A_VisualStudio\AeroportV1\bin\Debug\AeroportV1.exe.config
+C:\INFO\A_VisualStudio\AeroportV1\bin\Debug\AeroportV1.exe
+C:\INFO\A_VisualStudio\AeroportV1\bin\Debug\AeroportV1.pdb
+C:\INFO\A_VisualStudio\AeroportV1\obj\Debug\AeroportV1.csprojAssemblyReference.cache
+C:\INFO\A_VisualStudio\AeroportV1\obj\Debug\AeroportV1.Properties.Resources.resources
+C:\INFO\A_VisualStudio\AeroportV1\obj\Debug\AeroportV1.csproj.GenerateResource.cache
+C:\INFO\A_VisualStudio\AeroportV1\obj\Debug\AeroportV1.csproj.CoreCompileInputs.cache
+C:\INFO\A_VisualStudio\AeroportV1\obj\Debug\AeroportV1.exe
+C:\INFO\A_VisualStudio\AeroportV1\obj\Debug\AeroportV1.pdb
+C:\INFO\A_VisualStudio\AeroportV1\obj\Debug\AeroportV1.frmMain.resources
+C:\INFO\A_VisualStudio\AeroportV1\obj\Debug\AeroportV1.frmAdminMain.resources
+C:\INFO\A_VisualStudio\AeroportV1\obj\Debug\AeroportV1.csproj.CopyComplete
+C:\INFO\A_VisualStudio\AeroportV1\obj\Debug\AeroportV1.frmUserMain.resources
+C:\INFO\A_VisualStudio\AeroportV1\obj\Debug\AeroportV1.Component1.resources
